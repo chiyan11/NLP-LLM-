@@ -54,7 +54,9 @@
 
 **B站视频：**
 - 【3Blue1Brown 线性代数的本质】搜索关键词：`3Blue1Brown 线性代数的本质` — 可视化讲解，强烈推荐
+- https://www.bilibili.com/video/BV1XxEL6LESR/?spm_id_from=333.337.search-card.all.click
 - 【3Blue1Brown 微积分的本质】搜索关键词：`3Blue1Brown 微积分的本质`
+- https://www.bilibili.com/video/BV1qW411N7FU/?spm_id_from=333.337.search-card.all.click
 - 【概率论速成】搜索关键词：`概率论 速成 数据科学`
 
 **GitHub 教程：**
@@ -80,7 +82,9 @@
 
 **B站视频：**
 - 【吴恩达机器学习】搜索关键词：`吴恩达 机器学习 2022` — 经典中的经典，有中文版
+- https://www.bilibili.com/video/BV1owrpYKEtP/?spm_id_from=333.337.search-card.all.click
 - 【李宏毅机器学习】搜索关键词：`李宏毅 机器学习 2024` — 中文讲解，通俗易懂，更新到最新
+- https://www.bilibili.com/video/BV1ruqABeEFX/?spm_id_from=333.337.search-card.all.click
 - 【机器学习速成课程】搜索关键词：`Google 机器学习速成` — Google 官方出品，快速入门
 
 **GitHub 教程：**
@@ -122,8 +126,11 @@
 
 **B站视频：**
 - 【刘二大人 PyTorch 教程】搜索关键词：`刘二大人 PyTorch` — 中文 PyTorch 入门最佳
+- https://www.bilibili.com/video/BV1Y7411d7Ys/?spm_id_from=333.337.search-card.all.click
 - 【小土堆 PyTorch 教程】搜索关键词：`小土堆 PyTorch` — 保姆级教程，非常细致
+- https://www.bilibili.com/video/BV1QpsXzyEAK/?spm_id_from=333.337.search-card.all.click
 - 【吴恩达深度学习】搜索关键词：`吴恩达 深度学习` — 理论基础，配合 PyTorch 实践
+- https://www.bilibili.com/video/BV12urfB1E7s/?spm_id_from=333.337.search-card.all.click
 
 **GitHub 教程：**
 - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) — PyTorch 从入门到进阶，代码简洁
@@ -164,6 +171,7 @@
 
 **B站视频：**
 - 【斯坦福 CS224N NLP 深度学习】搜索关键词：`CS224N 自然语言处理` — NLP 最权威课程
+- https://www.bilibili.com/video/BV1vQMBz6EvP/?spm_id_from=333.337.search-card.all.click
 - 【李宏毅 NLP 相关章节】搜索关键词：`李宏毅 自然语言处理 Transformer`
 - 【Seq2Seq + Attention 讲解】搜索关键词：`Seq2Seq Attention机制 图解`
 
@@ -214,8 +222,10 @@
 
 **B站视频：**
 - 【Transformer 原理讲解】搜索关键词：`Transformer 原理 图解 详解` — 推荐找有动画演示的
+- https://www.bilibili.com/video/BV1fj6vBfEnu/?spm_id_from=333.337.search-card.all.click
 - 【手写 Transformer】搜索关键词：`手写 Transformer 从零实现 PyTorch`
 - 【Andrej Karpathy Let's build GPT】搜索关键词：`Karpathy 从零构建 GPT` — 从零手写 GPT，必看
+- https://www.bilibili.com/video/BV1mqrTBvEaf/?spm_id_from=333.337.search-card.all.click
 - 【Hugging Face 教程】搜索关键词：`Hugging Face Transformers 教程 中文`
 
 **GitHub 教程：**
@@ -283,8 +293,11 @@
 
 **B站视频：**
 - 【LangChain 教程】搜索关键词：`LangChain 教程 中文 2024`
+- https://www.bilibili.com/video/BV178w1z7EHQ/?spm_id_from=333.337.search-card.all.click
 - 【RAG 检索增强生成】搜索关键词：`RAG 检索增强生成 教程 实战`
+- https://www.bilibili.com/video/BV1eecUz7ExG/?spm_id_from=333.337.search-card.all.click
 - 【LoRA 微调实战】搜索关键词：`LoRA 微调 大模型 实战`
+- https://www.bilibili.com/video/BV1DRqbBZEBY/?spm_id_from=333.337.search-card.all.click
 - 【大模型应用开发】搜索关键词：`大模型应用开发 LLM API`
 
 **GitHub 教程：**
@@ -332,8 +345,11 @@
 
 **B站视频：**
 - 【AI Agent 开发】搜索关键词：`AI Agent 开发 教程 LangChain Agent`
+- https://www.bilibili.com/video/BV1wVEQ6cE85/?spm_id_from=333.337.search-card.all.click
 - 【FastAPI 教程】搜索关键词：`FastAPI 教程 Python`
+- https://www.bilibili.com/video/BV1SY7C6nETx/?spm_id_from=333.337.search-card.all.click
 - 【Docker 入门】搜索关键词：`Docker 入门教程 2024`
+- https://www.bilibili.com/video/BV1CJ411T7BK/?spm_id_from=333.337.search-card.all.click
 
 **GitHub 教程：**
 - [autogen](https://github.com/microsoft/autogen) — 微软多 Agent 框架
