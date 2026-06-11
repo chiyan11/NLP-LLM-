@@ -86,6 +86,7 @@
 - 【李宏毅机器学习】搜索关键词：`李宏毅 机器学习 2024` — 中文讲解，通俗易懂，更新到最新
 - https://www.bilibili.com/video/BV1ruqABeEFX/?spm_id_from=333.337.search-card.all.click
 - 【机器学习速成课程】搜索关键词：`Google 机器学习速成` — Google 官方出品，快速入门
+- https://www.bilibili.com/video/BV1dW411s7KS/?spm_id_from=333.337.search-card.all.click
 
 **GitHub 教程：**
 - [machine-learning-course](https://github.com/ageron/handson-ml3) — 《动手学机器学习》配套代码（sklearn 实战）
@@ -173,7 +174,9 @@
 - 【斯坦福 CS224N NLP 深度学习】搜索关键词：`CS224N 自然语言处理` — NLP 最权威课程
 - https://www.bilibili.com/video/BV1vQMBz6EvP/?spm_id_from=333.337.search-card.all.click
 - 【李宏毅 NLP 相关章节】搜索关键词：`李宏毅 自然语言处理 Transformer`
+- https://www.bilibili.com/video/BV1hM4y157xX/?spm_id_from=333.337.search-card.all.click
 - 【Seq2Seq + Attention 讲解】搜索关键词：`Seq2Seq Attention机制 图解`
+- https://www.bilibili.com/video/BV19u4m1T7JR/?spm_id_from=333.337.search-card.all.click
 
 **GitHub 教程：**
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) — NLP 经典模型 PyTorch 实现（RNN/LSTM/Seq2Seq/Attention）
