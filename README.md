@@ -227,9 +227,11 @@
 - 【Transformer 原理讲解】搜索关键词：`Transformer 原理 图解 详解` — 推荐找有动画演示的
 - https://www.bilibili.com/video/BV1fj6vBfEnu/?spm_id_from=333.337.search-card.all.click
 - 【手写 Transformer】搜索关键词：`手写 Transformer 从零实现 PyTorch`
+- https://www.bilibili.com/video/BV1cCw9zrEjP/?spm_id_from=333.337.search-card.all.click
 - 【Andrej Karpathy Let's build GPT】搜索关键词：`Karpathy 从零构建 GPT` — 从零手写 GPT，必看
 - https://www.bilibili.com/video/BV1mqrTBvEaf/?spm_id_from=333.337.search-card.all.click
 - 【Hugging Face 教程】搜索关键词：`Hugging Face Transformers 教程 中文`
+- https://www.bilibili.com/video/BV1aNZ1BfEkY/?spm_id_from=333.337.search-card.all.click
 
 **GitHub 教程：**
 - [minGPT](https://github.com/karpathy/minGPT) — Karpathy 的极简 GPT 实现，代码仅 300 行
@@ -302,6 +304,7 @@
 - 【LoRA 微调实战】搜索关键词：`LoRA 微调 大模型 实战`
 - https://www.bilibili.com/video/BV1DRqbBZEBY/?spm_id_from=333.337.search-card.all.click
 - 【大模型应用开发】搜索关键词：`大模型应用开发 LLM API`
+- https://www.bilibili.com/video/BV16aDpB4Er6/?spm_id_from=333.337.search-card.all.click
 
 **GitHub 教程：**
 - [langchain](https://github.com/langchain-ai/langchain) — LangChain 官方仓库
